@@ -1,5 +1,7 @@
 # Software Developer Portfolio 
 
+[![HitCount](http://hits.dwyl.com/medmoudou/medmoudougithubio.svg)](http://hits.dwyl.com/medmoudou/medmoudougithubio)
+
 
 ### A clean, beautiful and responsive portfolio template for Developers!
 
